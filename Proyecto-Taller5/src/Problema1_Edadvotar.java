@@ -4,7 +4,7 @@ import java.util.Scanner;
 /*** 
  *Edad para Votar: Determinar si una persona es elegible para 
  *votar en función de su edad (mayor o igual a 18 años).
- * @autor juampyz7
+ * @author juampyz7
  */
 
 public class Problema1_Edadvotar {
