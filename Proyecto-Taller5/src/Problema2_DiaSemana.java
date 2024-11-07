@@ -4,7 +4,7 @@ import java.util.Scanner;
 /**
  * Día de la Semana: Mostrar el nombre del día de la semana
  * en función del número ingresado (1 para lunes, 2 para martes, etc.).
- * @author patito
+ * @author PatitoCorrea
  */
 public class Problema2_DiaSemana {
     public static void main(String[] args) {
