@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 /***
  *Descuento en Compras: Calcular el precio final de un producto con un descuento del 10% si el precio original es mayor de $100; de lo contrario, no hay descuento.
- * @author patito
+ * @author PatitoCorrea
  */
 public class Problema4_DescuentoCompras {
     public static void main(String[] args) {
