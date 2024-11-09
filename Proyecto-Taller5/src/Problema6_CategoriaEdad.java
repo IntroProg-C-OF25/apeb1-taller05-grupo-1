@@ -23,3 +23,4 @@ public class Problema6_CategoriaEdad {
     }
     
 }
+
