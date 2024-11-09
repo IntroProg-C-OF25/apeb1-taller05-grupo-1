@@ -30,6 +30,7 @@ public class Problema13_ReservasHoteleras {
         System.out.println("EL DESCUENTO APLICADO ES DE: " + descuento);
         System.out.println("EL TOTAL A PAGAR ES DE: " + Total);
         
+        
     }
     
 }
