@@ -17,7 +17,8 @@ public class Problema1_Edadvotar {
             System.out.println("SI PUEDE VOTAR");
         else
             System.out.println("NO PUEDE VOTAR");
-           
+        
+        
     }
 }
 /***
