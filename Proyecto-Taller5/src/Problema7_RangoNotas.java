@@ -22,6 +22,7 @@ public class Problema7_RangoNotas {
         if (calificacion > 60 && calificacion <= 70)
             letra = "D";
         System.out.println("LA CALIFICACION CORRESPONDE A LA LETRA: " + letra);
+    
         
     }
     
