@@ -50,5 +50,6 @@ public class Problema9_Ordenamiento3Numeros {
         System.out.println("EL ORDEN ASCENDENTE DE LOS NUMEROS ES: " + numeroMenor + "," + numeroMedio + "," + numeroMayor);
         
 
+        
     }
 }
